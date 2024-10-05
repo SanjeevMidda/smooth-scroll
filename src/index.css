@@ -9,7 +9,7 @@
 }
 
 .App {
-  display: flex;
+  display: flex-end;
   flex-direction: column;
   overflow-x: hidden;
 }
